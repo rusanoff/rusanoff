@@ -3,6 +3,7 @@
 <h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1602241199/10777/keanu-thanks.gif?1602241199" width="30" /> 
   Welcome to my page!
+  <br />
   <p align="center">
     <a href="https://www.linkedin.com/in/arusanoff/" target="_blank" rel="noreferrer noopener">
       <img alt="Linkedin" src="https://img.shields.io/badge/-arusanoff-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arusanoff/" />
