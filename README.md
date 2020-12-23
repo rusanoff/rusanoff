@@ -1,9 +1,8 @@
-# Hi! My name is Andrew
-
+<h1 align="center">Hi! My name is Andrew</h1>
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1602241199/10777/keanu-thanks.gif?1602241199" width="30" /> 
-  Welcome to my page!
+  <img src="https://emojis.slackmojis.com/emojis/images/1602241199/10777/keanu-thanks.gif?1602241199" width="30" />
   <br />
+  Welcome to my page!
   <br />
   <p align="center">
     <a href="https://www.linkedin.com/in/arusanoff/" target="_blank" rel="noreferrer noopener">
