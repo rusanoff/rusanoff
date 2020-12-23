@@ -8,6 +8,9 @@
   I'm Frontend developer from
   <img src="https://www.flaticon.com/svg/static/icons/svg/323/323300.svg" width="13"/> <b>Voronezh, Russia</b>,
   currently living in <b>Moscow</b>.
+  <br />
+  During my career, I managed to work with all the frameworks from the leading three: Vue, Angular and React.
+  Most of all I liked working with React + MobX + TypeScript
 </p>
 
 <h3>I can work with:</h3>
