@@ -1,12 +1,10 @@
 # Hi! My name is Andrew
 
 <h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-  Nice to see you
+  <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30" />
+  Welcome to my page!
 </h2>
 <p>
-  Welcome to my page!
-  </br>
   I'm Frontend developer from
   <img src="https://www.flaticon.com/svg/static/icons/svg/323/323300.svg" width="13"/> <b>Voronezh, Russia</b>,
   currently living in <b>Moscow</b>.
