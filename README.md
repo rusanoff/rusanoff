@@ -4,10 +4,14 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1602241199/10777/keanu-thanks.gif?1602241199" width="30" /> 
   Welcome to my page!
   <p>
+
     [![Linkedin Badge](https://img.shields.io/badge/-arusanoff-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arusanoff/)](https://www.linkedin.com/in/arusanoff/)
-[![Twitter Badge](https://img.shields.io/badge/-@andrew_rusanoff-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andrew_rusanoff)](https://twitter.com/andrew_rusanoff)
-[![Instagram Badge](https://img.shields.io/badge/-@aa.rusanoff-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/aa.rusanoff/)](https://www.instagram.com/aa.rusanoff/)
-[![Gmail Badge](https://img.shields.io/badge/-andrew.rusanoff-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.rusanoff@gmail.com)](mailto:andrew.rusanoff@gmail.com)
+    
+    [![Twitter Badge](https://img.shields.io/badge/-@andrew_rusanoff-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andrew_rusanoff)](https://twitter.com/andrew_rusanoff)
+    
+    [![Instagram Badge](https://img.shields.io/badge/-@aa.rusanoff-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/aa.rusanoff/)](https://www.instagram.com/aa.rusanoff/)
+    
+    [![Gmail Badge](https://img.shields.io/badge/-andrew.rusanoff-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.rusanoff@gmail.com)](mailto:andrew.rusanoff@gmail.com)
   </p>
 </h2>
 <p>
