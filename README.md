@@ -1,6 +1,6 @@
 <h1 align="center">Hi! My name is Andrew</h1>
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1602241199/10777/keanu-thanks.gif?1602241199" width="30" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1602241199/10777/keanu-thanks.gif?1602241199" width="64" />
   <br />
   Welcome to my page!
   <br />
