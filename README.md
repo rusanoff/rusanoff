@@ -26,7 +26,7 @@
   currently living in <b>Moscow</b>.
   <br />
   During my career, I managed to work with all the frameworks from the leading three: Vue, Angular and React.
-  Most of all I liked working with React + MobX + TypeScript
+  Most of all I liked working with React + TypeScript
 </p>
 
 <h3>I can work with:</h3>
