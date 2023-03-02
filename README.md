@@ -20,6 +20,10 @@
     </a>
   </p>
 </h2>
+
+<h2>
+  🚀 About Me
+</h2>
 <p>
   I'm Frontend developer from
   <b>Voronezh, Russia</b>,
@@ -29,7 +33,9 @@
   Most of all I liked working with React + TypeScript
 </p>
 
-<h3>I can work with:</h3>
+<h2>
+  🛠 Skills
+</h2>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="http://img.shields.io/badge/-CSS3-0479BE?style=flat-square&logo=css3&logoColor=white" />
