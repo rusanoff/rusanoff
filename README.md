@@ -1,4 +1,5 @@
 <h1 align="center">Hi! I'm Andrew</h1>
+
 <h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1602241199/10777/keanu-thanks.gif?1602241199" width="64" />
   <br />
@@ -24,18 +25,20 @@
 <h2>
   🚀 About Me
 </h2>
+
 <p>
   I'm Frontend developer from
   <b>Voronezh, Russia</b>,
-  currently living in <b>Moscow</b>.
+  currently living as <b>Digital Nomad</b>.
   <br />
   During my career, I managed to work with all the frameworks from the leading three: Vue, Angular and React.
-  Most of all I liked working with React + TypeScript
+  Most of all I liked working with React.js or Next.js + TypeScript.
 </p>
 
 <h2>
   🛠 Skills
 </h2>
+
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="http://img.shields.io/badge/-CSS3-0479BE?style=flat-square&logo=css3&logoColor=white" />
