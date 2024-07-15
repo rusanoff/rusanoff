@@ -49,7 +49,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img alt="LESS" src="http://img.shields.io/badge/-LESS-1F416F?style=flat&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
   <img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux-593D88?style=flat&logo=redux&logoColor=white" />
   <img alt="MobX" src="http://img.shields.io/badge/-MobX-DF5F14?style=flat&logo=mob-x&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
